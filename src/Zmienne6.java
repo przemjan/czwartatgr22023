@@ -30,5 +30,7 @@ public class Zmienne6 {
         char litera = 'a';
 
         boolean slonce = true; //false
+
+        // https://github.com/przemjan/czwartatgr22023
     }
 }
