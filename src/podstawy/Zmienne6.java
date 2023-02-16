@@ -1,3 +1,5 @@
+package podstawy;
+
 public class Zmienne6 {
     public static void main(String[] args) {
 
@@ -32,5 +34,10 @@ public class Zmienne6 {
         boolean slonce = true; //false
 
         // https://github.com/przemjan/czwartatgr22023
+
+        // windows r
+
+        // \\ubuckp
+
     }
 }
