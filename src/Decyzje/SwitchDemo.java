@@ -13,8 +13,9 @@ public class SwitchDemo {
         int liczba = 5;
         String napis = " ";
 
-        switch (litera) {
+        switch (liczba) {
             case 'a':
+
                 System.out.println("Styczeń");
                 //fallthrough
 

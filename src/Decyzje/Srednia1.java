@@ -18,7 +18,7 @@ public class Srednia1 {
 
         srednia = (double)(ocena1 + ocena2) / iloscOcen;
 
-        if (srednia ==  5) {
+        if (srednia == 5) {
             System.out.println("Świetnie! " + srednia);
 
         }
